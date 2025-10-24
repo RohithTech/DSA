@@ -1,5 +1,6 @@
 package DSA;
 // this is to understand the merge from Rohith
+// this is to understand the merge from Rusith
 public class BinarySearch {
     public static int binarySearch(int[] arr,int target){
         int left = 0;
@@ -22,7 +23,8 @@ public class BinarySearch {
         if(result==-1){
         System.out.println("The element is not found");
         System.out.println("Thankyou Rohi");
-    }
+        System.out.println("Thankyou Rusi");
+        }
         else
          System.out.println("The element found at :"+result);
     }
