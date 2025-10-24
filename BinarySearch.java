@@ -22,7 +22,9 @@ public class BinarySearch {
         int result =binarySearch(array, tar_value);
         if(result==-1){
         System.out.println("The element is not found");
-        System.out.println("Thankyou Rusi"); }
+        System.out.println("Thankyou Rohi");
+        System.out.println("Thankyou Rusi");
+        }
         else
          System.out.println("The element found at :"+result);
     }
