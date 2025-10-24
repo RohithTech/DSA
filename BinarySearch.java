@@ -1,5 +1,5 @@
 package DSA;
-
+// this is to understand the merge
 public class BinarySearch {
     public static int binarySearch(int[] arr,int target){
         int left = 0;
